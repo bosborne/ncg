@@ -7,35 +7,35 @@ published: true
 
 ## Nyack Community Garden 2026 Calendar
 
-***Tuesday February 10*** Applications emailed out
+**Tuesday February 10** - Applications emailed out
 
-***Monday March 2*** Postmark deadline for applications
+**Monday March 2** - Postmark deadline for applications
 
-***Thursday March 19 at 7 PM*** **Mandatory** General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
+**Thursday March 19 at 7 PM** - *Mandatory* General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
 
-***Tuesday March 24*** Plot and committee assignments emailed
+**Tuesday March 24** - Plot and committee assignments emailed
 
-***Saturday March 28 at 8 AM*** Staking of plots
+**Saturday March 28 at 8 AM** - Staking of plots
 
-***Sunday March 29*** Garden opens!
+**Sunday March 29** - Garden opens!
 
-***Sunday May 16*** Deadline for prepping plots
+**Sunday May 16** - Deadline for prepping plots
 
-***Sunday May 18*** Unprepped plots assigned to gardeners on the waiting list
+**Sunday May 18** - Unprepped plots assigned to gardeners on the waiting list
 
-***Saturday June 6 at 9 AM*** Spring Clean Up (Rain date June 7)
+**Saturday June 6 at 9 AM** - Spring Clean Up (Rain date June 7)
 
-***Saturday July 11 at 9 AM*** Summer Clean Up (Rain date July 12)
+**Saturday July 11 at 9 AM** - Summer Clean Up (Rain date July 12)
 
-***DATE TBD*** The annual Nyack Community Garden Contest
+**DATE TBD** - The annual Nyack Community Garden Contest
 
-***Saturday August 22 at 9 AM*** End of Summer/Pre-Potluck Dinner Clean Up (Rain date August 23)
+**Saturday August 22 at 9 AM** - End of Summer/Pre-Potluck Dinner Clean Up (Rain date August 23)
 
-***Thursday September 17 at 7 PM*** Pot Luck Dinner with prizes awarded to contest winners and free raffle and prizes for gardeners
+**Thursday September 17 at 7 PM** - Pot Luck Dinner with prizes awarded to contest winners and free raffle and prizes for gardeners
 
-***Saturday October 17 at 9 AM*** Deadline for gardeners to fully clear plots*
+**Saturday October 17 at 9 AM** - Deadline for gardeners to fully clear plots*
 
-***Saturday October 31*** GARDEN CLOSES; Winter Clean Up at 8 AM
+**Saturday October 31** - GARDEN CLOSES; Winter Clean Up at 8 AM
 
 *Gardeners in good standing may email and request to leave only winter greens/herbs until Thanksgiving. All remaining plants must be clear by the end of November
 
