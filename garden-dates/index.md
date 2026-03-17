@@ -5,45 +5,39 @@ pageclass: garden-dates
 published: true
 ---
 
-## Nyack Community Garden 2025 Calendar
+## Nyack Community Garden 2026 Calendar
 
-***Thursday February 6*** Applications emailed out to Gardeners
+***Tuesday February 10*** Applications emailed out
 
-***Friday February 28*** Postmark deadline for applications
+***Monday March 2*** Postmark deadline for applications
 
-***Thursday March 20 at 7 PM*** **Mandatory** General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
+***Thursday March 19 at 7 PM*** **Mandatory** General Membership Meeting at the Nyack Senior Center (90 Depew Avenue)
 
-***Thursday March 24*** Plot and committee assignments emailed
+***Tuesday March 24*** Plot and committee assignments emailed
 
-***Saturday March 29 at 8 AM*** Staking of plots
+***Saturday March 28 at 8 AM*** Staking of plots
 
-***Sunday March 30*** Garden opens!
+***Sunday March 29*** Garden opens!
 
-***Sunday April 13 at 9 AM*** Ask A Gardener, bring your questions, we'll plant and talk
+***Sunday May 16*** Deadline for prepping plots
 
-***Sunday April 27 at 9 AM*** Ask A Gardener, bring your questions, we'll plant and talk
+***Sunday May 18*** Unprepped plots assigned to gardeners on the waiting list
 
-***Saturday May 17*** Seedling Sale at the Garden 9-12, the proceeds go to charity
+***Saturday June 6 at 9 AM*** Spring Clean Up (Rain date June 7)
 
-***Sunday May 18*** Deadline for fully planting plots
+***Saturday July 11 at 9 AM*** Summer Clean Up (Rain date July 12)
 
-***Sunday May 25*** Unplanted plots assigned to gardeners on the waiting list
+***DATE TBD*** The annual Nyack Community Garden Contest
 
-***Saturday June 7 at 9 AM*** Spring Clean Up (Rain date June 8)
+***Saturday August 22 at 9 AM*** End of Summer/Pre-Potluck Dinner Clean Up (Rain date August 23)
 
-***Sunday July 13 at 9 AM*** Summer Clean Up (Rain date July 12)
+***Thursday September 17 at 7 PM*** Pot Luck Dinner with prizes awarded to contest winners and free raffle and prizes for gardeners
 
-***Thursday July 31 at 10 AM*** The annual Nyack Community Garden Contest
+***Saturday October 17 at 9 AM*** Deadline for gardeners to fully clear plots*
 
-***Saturday August 23 at 9 AM*** End of Summer/Pre-Potluck Dinner Clean Up (Rain date August 24)
+***Saturday October 31*** GARDEN CLOSES; Winter Clean Up at 8 AM
 
-***Thursday September 25 at 7 PM*** Pot Luck Dinner, at the Nyack Senior Center (90 Depew Ave.), with prizes awarded to contest winners and free raffle for attendees
-
-***Saturday October 18 at 9 AM*** Fall Clean Up (Rain date October 18)
-
-***Sunday November 2*** Garden closes - Gardeners must fully clear plots
-
-***Saturday November 15 at 8 AM*** Winter prep and clean-up by the End of Season Cleanup Committee
+*Gardeners in good standing may email and request to leave only winter greens/herbs until Thanksgiving. All remaining plants must be clear by the end of November
 
 <!--
 ***January 30*** Applications emailed out
