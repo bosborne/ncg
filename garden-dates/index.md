@@ -27,7 +27,7 @@ published: true
 
 **Saturday July 11 at 9 AM** - Summer Clean Up (Rain date July 12)
 
-**DATE TBD** - The annual Nyack Community Garden Contest
+**Tuesday August 11 at 10 AM** - The annual Nyack Community Garden Contest
 
 **Saturday August 22 at 9 AM** - End of Summer/Pre-Potluck Dinner Clean Up (Rain date August 23)
 
