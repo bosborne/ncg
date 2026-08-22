@@ -29,7 +29,7 @@ published: true
 
 **Tuesday August 11 at 10 AM** - The annual Nyack Community Garden Contest
 
-**Saturday August 22 at 9 AM** - End of Summer/Pre-Potluck Dinner Clean Up (Rain date August 23)
+**SUNDAY August 23 at 9 AM** - RAIN DATE End of Summer/Pre-Potluck Dinner Clean Up
 
 **Thursday September 17 at 7 PM** - Pot Luck Dinner with prizes awarded to contest winners and free raffle and prizes for gardeners
 
